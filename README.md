@@ -1,11 +1,45 @@
-__Proyecto Integrador  🌏Análisis de Datos Mundiales -Florencia Piccolotto__
-
+## __🌍 Proyecto Integrador – Análisis de Datos Mundiales__
+__Florencia Piccolotto__
 __Unicorn Academy__
 
-* En este proyecto se aplican los conocimientos adquiridos durante el curso, abarcando análisis y limpieza de datos, consultas SQL, programación en Python y fundamentos estadísticos. 
+Este proyecto integra los conocimientos adquiridos a lo largo del curso, incluyendo:
 
-* El objetivo principal es analizar una base de datos compuesta por tres tablas que contienen información global sobre población, esperanza de vida, Producto Bruto Interno (PBI) per cápita, lenguajes predominantes y otros indicadores socioeconómicos, considerando tanto ciudades como países.
+🧹 Limpieza y análisis de datos
 
-* Durante el desarrollo del trabajo se resolvieron ejercicios prácticos que incluyeron el uso de estructuras de control, funciones personalizadas y la exploración de datasets reales. Además, se ampliaron los análisis con visualizaciones interactivas para facilitar la interpretación de los datos y extraer conclusiones relevantes sobre las variables demográficas y económicas.
+🐍 Programación en Python
 
-* Este proyecto constituye una integración de los conocimientos adquiridos en el curso, mostrando no solo las soluciones a los problemas planteados, sino también un enfoque reflexivo sobre el tratamiento de datos y el desarrollo de soluciones programáticas eficientes para extraer conclusiones significativas a partir del conjunto de datos.
+📊 Fundamentos estadísticos
+
+🧠 Consultas en SQL
+
+📈 Visualizaciones interactivas
+
+__🎯 Objetivo__
+
+Analizar una base de datos compuesta por tres tablas con información global sobre:
+
+* Población
+
+* Esperanza de vida
+
+* Producto Bruto Interno (PBI) per cápita
+
+* Lenguajes predominantes
+
+* Otros indicadores socioeconómicos
+
+__El análisis contempla tanto datos a nivel país como a nivel ciudad, permitiendo un enfoque multidimensional.__
+
+__⚙️ Desarrollo__
+Durante el proyecto se resolvieron ejercicios prácticos mediante:
+
+* Uso de estructuras de control
+
+* Creación de funciones personalizadas
+
+* Exploración de datasets reales
+
+* Generación de visualizaciones interactivas para facilitar la interpretación
+
+__🧠 Conclusión__
+__Este trabajo no solo da respuesta a los desafíos planteados, sino que demuestra una mirada reflexiva sobre el tratamiento de datos, el diseño de soluciones programáticas eficientes y la capacidad de extraer conclusiones relevantes a partir de información compleja.__
