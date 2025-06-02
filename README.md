@@ -1,8 +1,8 @@
-## __🌍 Proyecto Integrador – Análisis de Datos Mundiales__
-__Florencia Piccolotto__
-__Unicorn Academy__
+# __🌍 Proyecto Integrador – Análisis de Datos Mundiales__
+### __Florencia Piccolotto__
+### __Unicorn Academy__
 
-Este proyecto integra los conocimientos adquiridos a lo largo del curso, incluyendo:
+__Este proyecto integra los conocimientos adquiridos a lo largo del curso, incluyendo:__
 
 🧹 Limpieza y análisis de datos
 
@@ -14,7 +14,7 @@ Este proyecto integra los conocimientos adquiridos a lo largo del curso, incluye
 
 📈 Visualizaciones interactivas
 
-__🎯 Objetivo__
+#### __🎯 Objetivo__
 
 Analizar una base de datos compuesta por tres tablas con información global sobre:
 
@@ -30,7 +30,8 @@ Analizar una base de datos compuesta por tres tablas con información global sob
 
 __El análisis contempla tanto datos a nivel país como a nivel ciudad, permitiendo un enfoque multidimensional.__
 
-__⚙️ Desarrollo__
+#### __⚙️ Desarrollo__
+
 Durante el proyecto se resolvieron ejercicios prácticos mediante:
 
 * Uso de estructuras de control
@@ -41,5 +42,6 @@ Durante el proyecto se resolvieron ejercicios prácticos mediante:
 
 * Generación de visualizaciones interactivas para facilitar la interpretación
 
-__🧠 Conclusión__
+#### __🧠 Conclusión__
+
 __Este trabajo no solo da respuesta a los desafíos planteados, sino que demuestra una mirada reflexiva sobre el tratamiento de datos, el diseño de soluciones programáticas eficientes y la capacidad de extraer conclusiones relevantes a partir de información compleja.__
