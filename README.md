@@ -1,6 +1,5 @@
 # __🌍 Proyecto Integrador – Análisis de Datos Mundiales__
-### __Florencia Piccolotto__
-### __Unicorn Academy__
+### __Florencia Piccolotto - Unicorn Academy __
 
 __Este proyecto integra los conocimientos adquiridos a lo largo del curso, incluyendo:__
 
