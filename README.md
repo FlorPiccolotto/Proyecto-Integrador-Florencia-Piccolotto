@@ -1,5 +1,6 @@
-# Proyecto-Integrador-An-lisis-de-Datos-Mundiales-Florencia-Piccolotto
-Proyecto Integrador  🌏Análisis de Datos Mundiales-Florencia Piccolotto
+__Proyecto Integrador  🌏Análisis de Datos Mundiales -Florencia Piccolotto__
+
+Unicorn Academy
 
 En este proyecto se aplican los conocimientos adquiridos durante el curso, abarcando análisis y limpieza de datos, consultas SQL, programación en Python y fundamentos estadísticos. 
 
