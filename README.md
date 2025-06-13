@@ -25,7 +25,7 @@ Analizar una base de datos compuesta por tres tablas con información global sob
 
 * Lenguajes predominantes
 
-__El análisis contempla tanto datos a nivel país como a nivel ciudad, permitiendo un enfoque multidimensional.__
+__El análisis contempla tanto datos a nivel continente, país como así también a nivel ciudad, permitiendo un enfoque multidimensional.__
 
 #### __⚙️ Desarrollo__
 
