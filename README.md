@@ -21,11 +21,9 @@ Analizar una base de datos compuesta por tres tablas con información global sob
 
 * Esperanza de vida
 
-* Producto Bruto Interno (PBI) per cápita
+* Producto Bruto Nacional (PBN) per cápita
 
 * Lenguajes predominantes
-
-* Otros indicadores socioeconómicos
 
 __El análisis contempla tanto datos a nivel país como a nivel ciudad, permitiendo un enfoque multidimensional.__
 
